@@ -132,26 +132,7 @@ const GridItems: GridItemInterface[] = [
     description:
       "Full-stack developer | Crafting scalable and robust web applications.",
   },
-  // {
-  //   layout: "2x1",
-  //   type: "mentor",
-  //   title: "Next.js Mentorship",
-  //   icon: "superpeer",
-  //   promotion: "MAKRDEVFELLOWS",
-  //   oldPrice: "$100",
-  //   price: "$50",
-  //   buttonLink: "https://superpeer.com/makrdev/-/nextjs-mentor",
-  // },
-  // {
-  //   layout: "2x1",
-  //   type: "mentor",
-  //   title: "Supabase Mentorship",
-  //   icon: "superpeer",
-  //   promotion: "MAKRDEVFELLOWS",
-  //   oldPrice: "$100",
-  //   price: "$50",
-  //   buttonLink: "https://superpeer.com/makrdev/-/supabase-mentor",
-  // },
+
   {
     layout: "2x4",
     type: "project",
